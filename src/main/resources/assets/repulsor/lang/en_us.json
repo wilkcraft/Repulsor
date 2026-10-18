@@ -1,0 +1,9 @@
+{
+  "item.repulsor.repulsor_item": "Repulsor",
+  "item.repulsor.repulsor_item.tooltip.main": "Off-hand: repels entities within 4 blocks",
+  "item.repulsor.repulsor_item.tooltip.fall": "Cancels fall damage while held",
+  "item.repulsor.repulsor_item.tooltip.op": "Only works for operators",
+  "item.repulsor.repulsor_item.tooltip.hold_shift": "Hold [Shift] for more info",
+  "item.repulsor.repulsor_item.tooltip.shift": "Sneaking (Shift): pulls entities within 4 blocks toward you",
+  "item.repulsor.repulsor_item.tooltip.exceptions": "Never affects your pets and leashed animals, items, XP orbs, frames, paintings or armor stands"
+}

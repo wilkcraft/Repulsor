@@ -1,0 +1,9 @@
+{
+  "item.repulsor.repulsor_item": "Repulsor",
+  "item.repulsor.repulsor_item.tooltip.main": "Mano secundaria: repele entidades a 4 bloques",
+  "item.repulsor.repulsor_item.tooltip.fall": "Anula el daño de caída mientras lo llevas",
+  "item.repulsor.repulsor_item.tooltip.op": "Solo funciona para operadores",
+  "item.repulsor.repulsor_item.tooltip.hold_shift": "Mantén [Shift] para más información",
+  "item.repulsor.repulsor_item.tooltip.shift": "Agachado (Shift): atrae a las entidades a 4 bloques hacia ti",
+  "item.repulsor.repulsor_item.tooltip.exceptions": "Nunca afecta a tus mascotas ni animales atados, items, orbes de experiencia, marcos, cuadros ni soportes de armadura"
+}
